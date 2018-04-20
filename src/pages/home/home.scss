@@ -1,15 +1,6 @@
-page-home {
-    #logo{
-        background:transparent;
-        height: 75px;
-        width:200px;
-    }
-    .loginform{
-        margin-top: 40px;
-    }
-    .button-row{
-        display: flex;
-        align-items: center;
-        justify-content: space-around;
+page-home{
+    p{
+        font: 100;
     }
 }
+

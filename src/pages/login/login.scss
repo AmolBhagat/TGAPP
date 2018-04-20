@@ -1,0 +1,25 @@
+page-login {
+    #logo{
+        background:transparent;
+        height: 75px;
+        width:200px;
+    }
+    .loginform{
+        margin-top: 40px;
+    }
+    .button-row{
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .content-md hr {
+        background-color: #999;
+        margin-top: -35px;
+    }
+    #divider{
+        margin:10px auto;
+        width:200px;
+        border-radius:7px;        
+    }
+
+}
